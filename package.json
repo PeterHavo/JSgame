@@ -1,0 +1,25 @@
+{
+  "name": "gameobservables",
+  "version": "1.0.0",
+  "description": "creating complex game logic using app state and state of game's component",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter Haviar",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "prompt": "^1.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterHavo/GameLogicNodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PeterHavo/GameLogicNodejs/issues"
+  },
+  "homepage": "https://github.com/PeterHavo/GameLogicNodejs#readme"
+}
