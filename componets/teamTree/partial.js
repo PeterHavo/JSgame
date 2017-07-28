@@ -163,7 +163,7 @@ const makeWinner = (array) => {
 
 
 
-const players = playerArray (8);
+const players = playerArray ();
 
 class test {
     constructor(){
@@ -184,6 +184,7 @@ module.exports.checkCredit = checkCredit;
 module.exports.reduce = randomShuffle;
 module.exports.winners = makeWinner;
 module.exports.shuffle = randomArrShuffle;
+module.exports.pl = playerArray;
 
 // export {method1, method2, method3 }
 // export default Class 
@@ -254,4 +255,10 @@ const findDuplicates = (array) => {
 
 
 // console.log(findDuplicates([1,2,3,4,5,8,9,8]));
+
+// let tSt = [1,2,3,4,5]
+
+// for (var item of tSt) {
+//     console.log(item);
+// }
 
